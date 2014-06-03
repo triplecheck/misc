@@ -1,0 +1,858 @@
+##-------------------------
+##SPDX Document Information
+##-------------------------
+
+SPDXVersion: SPDX-1.1
+DataLicense: CC0-1.0
+DocumentComment: <text>This file contains Low Definition SPDX data. Low Definition data is created by using only computer automation analysis on the source code files contained in the package. That is, no human experts participated in the source code analysis. The quality of the data is lower compared to human analyzed packages and therefore we use the name Low Definition (aka Low Def). Although we continuously work to improve the quality by adding and/or improving various heuristics, and accessing different databases and rule-based systems, the quality is bounded by what can be achieved by way of computer automation. Please send your feedback to: spdx@WindRiver.com.  DISCLAIMER: This document is provided "as is" without any warranty whatsoever. This documentation may not be referenced or relied upon for its accuracy or comprehensiveness, or to determine legal obligations with respect to open source code contained in the software package it represents. Such determinations should be based upon recipient's independent legal analysis and by reference to the notices and licenses contained within the open source code itself. Wind River may change the contents of this document at any time at its sole discretion, and Wind River shall have no liability whatsoever arising from recipient's use of this information. </text>
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: The Duke of Highlander
+Created: 2013-08-26T08:32:01Z
+CreatorComment: <text> DISCLAIMER: This document is provided "as is" without any warranty whatsoever. This documentation may not be referenced or relied upon for its accuracy or comprehensiveness, or to determine legal obligations with respect to open source code contained in the software package it represents. Such determinations should be based upon recipient's independent legal analysis and by reference to the notices and licenses contained within the open source code itself. Wind River may change the contents of this document at any time at its sole discretion, and Wind River shall have no liability whatsoever arising from recipient's use of this information.</text>
+
+
+##-------------------------
+## Package Information
+##-------------------------
+
+PackageName: opencsv-2.3-src-with-libs.tar.gz
+PackageFileName: opencsv-2.3-src-with-libs.tar.gz
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 0A910D4416C8AB0A848E8E06E3F3D1FA576B004B
+PackageChecksum: SHA1: 26A2E04944EC6A9FDB0E7752168B3F09731C6C8C
+PackageLicenseConcluded: Apache-2.0
+PackageLicenseDeclared: Apache-2.0
+PackageLicenseInfoFromFiles: Apache-2.0
+PackageCopyrightText: NOASSERTION
+
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+FileName: .classpath
+FileType: OTHER
+FileChecksum: SHA1: 847FD532E452C5FD742B03942E1BF175B2BCD505
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: .project
+FileType: OTHER
+FileChecksum: SHA1: 4C430CA11CAF9667A1A2EC710BFD5A2FEBBB33A7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: .svnignore
+FileType: OTHER
+FileChecksum: SHA1: 75C75D998A81AC06C63DBB3936C5494507291B12
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: build.version
+FileType: OTHER
+FileChecksum: SHA1: 80D35F9C19791E6F9D697242BE24698314587F61
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: build.xml
+FileType: OTHER
+FileChecksum: SHA1: 7BE8022E521A346FA4423F0A70275980811815DB
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> http://www.bytecode.com.au"/>bytecode, http://www.apache.org/licenses/license-2.0, copyright &#169; 2005-2007 <a href="http://www.bytecode.com.au"/>bytecode pty ltd.</a></i>]]>, copyright 2005 bytecode pty ltd. </text>
+
+##File
+
+FileName: myfile.csv
+FileType: OTHER
+FileChecksum: SHA1: 0127283BA67532809F8DD9355E1A0899E66E2E63
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: pom.xml
+FileType: OTHER
+FileChecksum: SHA1: 1E28F31F25FBDC0D9F90397B73583F67D3DF4997
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> http://oss.sonatype.org/content/repositories/sourceforge-snapshots/, http://oss.sonatype.org/content/repositories/sourceforge-releases/, http://sourceforge.net/tracker/?group_id=148905, http://blogs.bytecode.com.au/glen, http://opencsv.svn.sourceforge.net/viewvc/opencsv/, :https://opencsv.svn.sourceforge.net/svnroot/opencsv/trunk, http://www.apache.org/licenses/license-2.0.txt, http://opencsv.sf.net, http://maven.apache.org/maven-v4_0_0.xsd">, http://maven.apache.org/pom/4.0.0, http://www.w3.org/2001/xmlschema-instance", http://maven.apache.org/pom/4.0.0", sconway@users.sourceforge.net, sullis@users.sourceforge.net, glen_a_smith@users.sourceforge.net </text>
+
+##File
+
+FileName: setJava5.sh
+FileType: SOURCE
+FileChecksum: SHA1: 1168528E297769A34A408766CA262B11B4B30B21
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: CsvSample.java
+FileType: SOURCE
+FileChecksum: SHA1: 484DB7CC56623C72611B0E5B64763B1A512B5FBA
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: data.csv
+FileType: OTHER
+FileChecksum: SHA1: B101F208C432F710000FA777FB38068AAA53545D
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: DataReader.java
+FileType: SOURCE
+FileChecksum: SHA1: 83511BB6D57230142EE2908A604015BCD11735B5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: <text> author scott </text>
+
+##File
+
+FileName: DataReader.java
+FileType: SOURCE
+FileChecksum: SHA1: 77B2F2DC5F42293549777A4D69DEB67D6695E7F2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: <text> author scott </text>
+
+##File
+
+FileName: Sample.csv
+FileType: OTHER
+FileChecksum: SHA1: 14EAFCB3850EC76360FCBAC69F7BE126EAD2B58C
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: CSVParserTest.java
+FileType: SOURCE
+FileChecksum: SHA1: B6D4387BB457734878EAD801F25A1C8A19C05798
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: CSVReaderTest.java
+FileType: SOURCE
+FileChecksum: SHA1: 2EAD1A2A6E8124B9170ED470CD7DD9113EFF5188
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> http://www.apache.org/licenses/license-2.0, copyright 2005 bytecode pty ltd. </text>
+
+##File
+
+FileName: CSVWriterTest.java
+FileType: SOURCE
+FileChecksum: SHA1: A173BBDCC55A3D45FE40F72292AB39F49A14F688
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> http://www.apache.org/licenses/license-2.0, john@efgh.com, glen@abcd.com, copyright 2005 bytecode pty ltd. </text>
+
+##File
+
+FileName: MockClob.java
+FileType: SOURCE
+FileChecksum: SHA1: 568A756E4772C09385E61ACF55674A11E9266C9D
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> http://www.apache.org/licenses/license-2.0, copyright 2005 bytecode pty ltd. </text>
+
+##File
+
+FileName: MockResultSet.java
+FileType: SOURCE
+FileChecksum: SHA1: 80C6E104917CDEF7BA06A4B6941E978445326D90
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> http://www.apache.org/licenses/license-2.0, copyright 2005 bytecode pty ltd. </text>
+
+##File
+
+FileName: MockResultSetHelper.java
+FileType: SOURCE
+FileChecksum: SHA1: 6BC66875E918557D0CF2768DCEC3E9048ED24192
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> http://www.apache.org/licenses/license-2.0, copyright 2005 bytecode pty ltd. </text>
+
+##File
+
+FileName: MockResultSetMetaData.java
+FileType: SOURCE
+FileChecksum: SHA1: 77D7655F71DF875C669987E4D2C1815FAB046E45
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> http://www.apache.org/licenses/license-2.0, copyright 2005 bytecode pty ltd. </text>
+
+##File
+
+FileName: OpencsvTest.java
+FileType: SOURCE
+FileChecksum: SHA1: 678335441DBE645427F13D5CD3303B756C09552F
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> http://www.apache.org/licenses/license-2.0, copyright 2005 bytecode pty ltd. </text>
+
+##File
+
+FileName: ResultSetHelperServiceTest.java
+FileType: SOURCE
+FileChecksum: SHA1: F6A0616810CD5EA4976A6550E6DED1F0622D0D29
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> http://www.apache.org/licenses/license-2.0, copyright 2005 bytecode pty ltd. </text>
+
+##File
+
+FileName: TestUtilities.java
+FileType: SOURCE
+FileChecksum: SHA1: 479979DDF61E162FF5B40B236DD2688075231382
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: TestUtilitiesTest.java
+FileType: SOURCE
+FileChecksum: SHA1: 80A1455DFA3939FBDC0804B0EA702D08EB7547CB
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: UniCodeTest.java
+FileType: SOURCE
+FileChecksum: SHA1: B5D602A26634EB539D0AE60B44D0A33A49795DE7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: ColumnPositionMappingStrategyTest.java
+FileType: SOURCE
+FileChecksum: SHA1: C2CCE954AA46BA773F0C2A688176661C27E438E5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> http://www.apache.org/licenses/license-2.0, copyright 2007 kyle miller. </text>
+
+##File
+
+FileName: CsvToBeanTest.java
+FileType: SOURCE
+FileChecksum: SHA1: 1F31F895D8E351A4A0FD5B6A18046075E1599964
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: HeaderColumnNameMappingStrategyTest.java
+FileType: SOURCE
+FileChecksum: SHA1: 16B42A76BA4B86E288D2D0D5CE9E5F952A858CD2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> http://www.apache.org/licenses/license-2.0, copyright 2007 kyle miller. </text>
+
+##File
+
+FileName: HeaderColumnNameTranslateMappingStrategyTest.java
+FileType: SOURCE
+FileChecksum: SHA1: F66A3F086F478EC6ED20BB57368C878DC88F01E8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> http://www.apache.org/licenses/license-2.0, copyright 2007 kyle miller. </text>
+
+##File
+
+FileName: MockBean.java
+FileType: SOURCE
+FileChecksum: SHA1: BB2ED0D58E07D5DEDB56ADE1AE8C785FB058F3F7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> http://www.apache.org/licenses/license-2.0, copyright 2007 kyle miller. </text>
+
+##File
+
+FileName: CSVParser.java
+FileType: SOURCE
+FileChecksum: SHA1: B373BAD8EAADB3042FAB2629D53299187CEA841F
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> http://www.apache.org/licenses/license-2.0, author rainer pruy, author glen smith, copyright 2005 bytecode pty ltd. </text>
+
+##File
+
+FileName: CSVReader.java
+FileType: SOURCE
+FileChecksum: SHA1: CF198871C4529E0F27C7DAC65C0076B24E8C50C9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> http://www.apache.org/licenses/license-2.0, author glen smith, copyright 2005 bytecode pty ltd. </text>
+
+##File
+
+FileName: CSVWriter.java
+FileType: SOURCE
+FileChecksum: SHA1: E9C16F036D5AAACC42B8777FB998473DEF8202AA
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> http://www.apache.org/licenses/license-2.0, author glen smith, copyright 2005 bytecode pty ltd. </text>
+
+##File
+
+FileName: package.html
+FileType: OTHER
+FileChecksum: SHA1: 72F8C8CF2C1E3A4B7C83D1C9795CCD9D7A844959
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: <text> http://opencsv.sourceforge.net/">opencsv.sourceforge.net </text>
+
+##File
+
+FileName: ResultSetHelper.java
+FileType: SOURCE
+FileChecksum: SHA1: 5B413997117E473DBD5408582933B04DAE58B8E6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> http://www.apache.org/licenses/license-2.0, copyright 2005 bytecode pty ltd. </text>
+
+##File
+
+FileName: ResultSetHelperService.java
+FileType: SOURCE
+FileChecksum: SHA1: 9206505C4831E07F0C61BB7C30191757132F245D
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> http://www.apache.org/licenses/license-2.0, copyright 2005 bytecode pty ltd. </text>
+
+##File
+
+FileName: ColumnPositionMappingStrategy.java
+FileType: SOURCE
+FileChecksum: SHA1: 11642BF4C98B6524EABE5ECFC239857073AF5235
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> http://www.apache.org/licenses/license-2.0, copyright 2007 kyle miller. </text>
+
+##File
+
+FileName: CsvToBean.java
+FileType: SOURCE
+FileChecksum: SHA1: AD754A856E1725F6A507398FBAA2892452673130
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> http://www.apache.org/licenses/license-2.0, copyright 2007 kyle miller. </text>
+
+##File
+
+FileName: HeaderColumnNameMappingStrategy.java
+FileType: SOURCE
+FileChecksum: SHA1: 01FC35270F8CE7A1D890C52C666876BA8C220503
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> http://www.apache.org/licenses/license-2.0, copyright 2007 kyle miller. </text>
+
+##File
+
+FileName: HeaderColumnNameTranslateMappingStrategy.java
+FileType: SOURCE
+FileChecksum: SHA1: C9A54A2A00852E65DBF5F9A10CA19EA0EFA57F94
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> http://www.apache.org/licenses/license-2.0, copyright 2007,2010 kyle miller. </text>
+
+##File
+
+FileName: MappingStrategy.java
+FileType: SOURCE
+FileChecksum: SHA1: CA07B567B0063AAFFDE3E647ABCB62896A1F9B5E
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> http://www.apache.org/licenses/license-2.0, copyright 2007 kyle miller. </text>
+
+##File
+
+FileName: package.html
+FileType: OTHER
+FileChecksum: SHA1: 4DDF9349F3B4A2947CD6417A119ED34959000B92
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: <text> http://opencsv.sourceforge.net/">opencsv.sourceforge.net </text>
+
+##File
+
+FileName: junit-4.7.jar
+FileType: ARCHIVE
+FileChecksum: SHA1: D9444742A5B897C6280724A49F57A8155517D21F
+LicenseConcluded: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: addresses.csv
+FileType: OTHER
+FileChecksum: SHA1: D6536471BEC989D5E8BC75F22B1A0A74CD0F3F90
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: <text> jack@example.co, jim@sample.com, joe@someaddress.com </text>
+
+##File
+
+FileName: AddressExample.java
+FileType: SOURCE
+FileChecksum: SHA1: 8E2112E49C07846C8AAD40E1A39576C234798D6E
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> http://www.apache.org/licenses/license-2.0, copyright 2005 bytecode pty ltd. </text>
+
+##File
+
+FileName: JdbcExample.java
+FileType: SOURCE
+FileChecksum: SHA1: CB11460C10B3446252393C4BA4E0C0A5913C9411
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: MockResultSet.java
+FileType: SOURCE
+FileChecksum: SHA1: F5C53649C21AB0EC4234E58ABC4B30D02635AA71
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: <text> http://www.google.com/"); </text>
+
+##File
+
+FileName: index.html
+FileType: OTHER
+FileChecksum: SHA1: 4B45114C5D0AFF515843B0FFCB2A6F385CDCC50C
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> http://blogs.bytecode.com.au/glen">glen's, http://sourceforge.net/project/showfiles.php?group_id=148905&package_id=164539">download, http://sourceforge.net/sflogo.php?group_id=148905&type=1", http://sourceforge.net">, http://www.sf.net/projects/opencsv">project, http://blogs.bytecode.com.au/glen">blog, http://www.apache.org/licenses/license-2.0">apache, http://www.sf.net/projects/opencsv">sourceforge, http://glish.com/css/9.asp, author info: </text>
+
+##File
+
+FileName: site.css
+FileType: SOURCE
+FileChecksum: SHA1: 8CC1A188F39B9B95FA98ABB0176C574168A7A925
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: index.fml
+FileType: OTHER
+FileChecksum: SHA1: EFCC33C6F207113003CD085260F7DFBC17DF8FF9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> http://oss.sonatype.org/content/groups/sourceforge/net/sf/opencsv/opencsv/">repo, http://www.sf.net/projects/opencsv">project, http://blogs.bytecode.com.au/glen">blog, http://www.apache.org/licenses/license-2.0">apache, http://www.sf.net/projects/opencsv">sourceforge, http://maven.apache.org/xsd/fml-1.0.1.xsd", http://maven.apache.org/fml/1.0.1, http://www.w3.org/2001/xmlschema-instance", http://maven.apache.org/fml/1.0.1" </text>
+
+##File
+
+FileName: allclasses-frame.html
+FileType: OTHER
+FileChecksum: SHA1: 56B48BCF461C43C41ACCDAB02260E1C9D20E4509
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: <text> http://www.w3.org/tr/html4/loose.dtd"> </text>
+
+##File
+
+FileName: allclasses-noframe.html
+FileType: OTHER
+FileChecksum: SHA1: 8C8982EE8CE72D980201121FB64C2B396C6B2BA3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: <text> http://www.w3.org/tr/html4/loose.dtd"> </text>
+
+##File
+
+FileName: constant-values.html
+FileType: OTHER
+FileChecksum: SHA1: 3A416B3F42F869C2F6A00ABC07D53C63851DA8EB
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: <text> http://www.bytecode.com.au"/>bytecode, http://www.w3.org/tr/html4/loose.dtd">, copyright &#169; 2005-2007 <a href="http://www.bytecode.com.au"/>bytecode pty ltd.</a></i> </text>
+
+##File
+
+FileName: deprecated-list.html
+FileType: OTHER
+FileChecksum: SHA1: E64AC81AA26E38E8750E470D35ACD3FFC6304233
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: <text> http://www.bytecode.com.au"/>bytecode, http://www.w3.org/tr/html4/loose.dtd">, copyright &#169; 2005-2007 <a href="http://www.bytecode.com.au"/>bytecode pty ltd.</a></i> </text>
+
+##File
+
+FileName: help-doc.html
+FileType: OTHER
+FileChecksum: SHA1: 132C65BB46E38B877CF3A69EF8C939C467AF5093
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: <text> http://www.bytecode.com.au"/>bytecode, http://www.w3.org/tr/html4/loose.dtd">, copyright &#169; 2005-2007 <a href="http://www.bytecode.com.au"/>bytecode pty ltd.</a></i> </text>
+
+##File
+
+FileName: index-all.html
+FileType: OTHER
+FileChecksum: SHA1: 2BEEBCF64F4D74CBAA104887CE46A834B8D67BAA
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: <text> http://www.bytecode.com.au"/>bytecode, http://www.w3.org/tr/html4/loose.dtd">, copyright &#169; 2005-2007 <a href="http://www.bytecode.com.au"/>bytecode pty ltd.</a></i>, copyright 2007,2010 kyle miller.<dt><a href="./au/com/bytecode/opencsv/bean/headercolumnnametranslatemappingstrategy.html#headercolumnnametranslatemappingstrategy()"><b>headercolumnnametranslatemapping, copyright 2007 kyle miller.<dt><a href="./au/com/bytecode/opencsv/bean/headercolumnnamemappingstrategy.html#headercolumnnamemappingstrategy()"><b>headercolumnnamemappingstrategy()</b></a> - , copyright 2007 kyle miller.<dt><a href="./au/com/bytecode/opencsv/bean/columnpositionmappingstrategy.html#columnpositionmappingstrategy()"><b>columnpositionmappingstrategy()</b></a> - </text>
+
+##File
+
+FileName: index.html
+FileType: OTHER
+FileChecksum: SHA1: 6E5DC6F42A10A9418D04DA5694B4E9775BE67C7B
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: <text> http://www.w3.org/tr/html4/frameset.dtd"> </text>
+
+##File
+
+FileName: overview-frame.html
+FileType: OTHER
+FileChecksum: SHA1: 3C9F4823998D0DE2CA86B5C24AC3D7501D549924
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: <text> http://www.w3.org/tr/html4/loose.dtd"> </text>
+
+##File
+
+FileName: overview-summary.html
+FileType: OTHER
+FileChecksum: SHA1: 82DA169AC8C730769818393C067F5B0F8AEA1087
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: <text> http://www.bytecode.com.au"/>bytecode, http://www.w3.org/tr/html4/loose.dtd">, copyright &#169; 2005-2007 <a href="http://www.bytecode.com.au"/>bytecode pty ltd.</a></i> </text>
+
+##File
+
+FileName: overview-tree.html
+FileType: OTHER
+FileChecksum: SHA1: 646047C49B60BE5435221EAD9892B5D442D27BC9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: <text> http://www.bytecode.com.au"/>bytecode, http://www.w3.org/tr/html4/loose.dtd">, copyright &#169; 2005-2007 <a href="http://www.bytecode.com.au"/>bytecode pty ltd.</a></i> </text>
+
+##File
+
+FileName: stylesheet.css
+FileType: SOURCE
+FileChecksum: SHA1: 226908241D11723574C61CA24AA7376D3D525C4F
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: inherit.gif
+FileType: OTHER
+FileChecksum: SHA1: E36FBC5F13D3764E0B70A0E1FC76DBC971BE10A2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: CSVParser.html
+FileType: OTHER
+FileChecksum: SHA1: 8C9C69C26E9DB836795FB36EB06064F723080288
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: <text> http://www.bytecode.com.au"/>bytecode, http://www.w3.org/tr/html4/loose.dtd">, copyright &#169; 2005-2007 <a href="http://www.bytecode.com.au"/>bytecode pty ltd.</a></i> </text>
+
+##File
+
+FileName: CSVReader.html
+FileType: OTHER
+FileChecksum: SHA1: 81CBDAF574561C9D7E9D8054E62B7B5B73999C77
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: <text> http://www.bytecode.com.au"/>bytecode, http://www.w3.org/tr/html4/loose.dtd">, copyright &#169; 2005-2007 <a href="http://www.bytecode.com.au"/>bytecode pty ltd.</a></i> </text>
+
+##File
+
+FileName: CSVWriter.html
+FileType: OTHER
+FileChecksum: SHA1: C34D89D03BEF4E5C924422E50D6518DD3BFD9009
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: <text> http://www.bytecode.com.au"/>bytecode, http://www.w3.org/tr/html4/loose.dtd">, copyright &#169; 2005-2007 <a href="http://www.bytecode.com.au"/>bytecode pty ltd.</a></i> </text>
+
+##File
+
+FileName: package-frame.html
+FileType: OTHER
+FileChecksum: SHA1: D235AE0C620FA8330E77C737018C86B95D8A6358
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: <text> http://www.w3.org/tr/html4/loose.dtd"> </text>
+
+##File
+
+FileName: package-summary.html
+FileType: OTHER
+FileChecksum: SHA1: 45F64EEA1F4D942C36F2E1D20BD72177422568FE
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: <text> http://www.bytecode.com.au"/>bytecode, http://opencsv.sourceforge.net/">opencsv.sourceforge.net, http://www.w3.org/tr/html4/loose.dtd">, copyright &#169; 2005-2007 <a href="http://www.bytecode.com.au"/>bytecode pty ltd.</a></i> </text>
+
+##File
+
+FileName: package-tree.html
+FileType: OTHER
+FileChecksum: SHA1: 22403DECFC39C5C92E48C824CC2B24843DD26FCD
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: <text> http://www.bytecode.com.au"/>bytecode, http://www.w3.org/tr/html4/loose.dtd">, copyright &#169; 2005-2007 <a href="http://www.bytecode.com.au"/>bytecode pty ltd.</a></i> </text>
+
+##File
+
+FileName: package-use.html
+FileType: OTHER
+FileChecksum: SHA1: 3B74570CDFED0003B7122CD00DAE024F7791A74C
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: <text> http://www.bytecode.com.au"/>bytecode, http://www.w3.org/tr/html4/loose.dtd">, copyright &#169; 2005-2007 <a href="http://www.bytecode.com.au"/>bytecode pty ltd.</a></i> </text>
+
+##File
+
+FileName: ResultSetHelper.html
+FileType: OTHER
+FileChecksum: SHA1: E3F55CE77A569C90EC8BC8CA03B3600E6CA4EFD8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: <text> http://www.bytecode.com.au"/>bytecode, http://www.w3.org/tr/html4/loose.dtd">, copyright &#169; 2005-2007 <a href="http://www.bytecode.com.au"/>bytecode pty ltd.</a></i> </text>
+
+##File
+
+FileName: ResultSetHelperService.html
+FileType: OTHER
+FileChecksum: SHA1: 271538AB69F3480577A5ED0D2E9B42F452693C81
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: <text> http://www.bytecode.com.au"/>bytecode, http://www.w3.org/tr/html4/loose.dtd">, copyright &#169; 2005-2007 <a href="http://www.bytecode.com.au"/>bytecode pty ltd.</a></i> </text>
+
+##File
+
+FileName: CSVParser.html
+FileType: OTHER
+FileChecksum: SHA1: E2FEC4C19534CE842EDDB97E75CCB48E1158BE48
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: <text> http://www.bytecode.com.au"/>bytecode, http://www.w3.org/tr/html4/loose.dtd">, copyright &#169; 2005-2007 <a href="http://www.bytecode.com.au"/>bytecode pty ltd.</a></i> </text>
+
+##File
+
+FileName: CSVReader.html
+FileType: OTHER
+FileChecksum: SHA1: 21CB9409B70345BB478D3744408F2BF03F688486
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: <text> http://www.bytecode.com.au"/>bytecode, http://www.w3.org/tr/html4/loose.dtd">, copyright &#169; 2005-2007 <a href="http://www.bytecode.com.au"/>bytecode pty ltd.</a></i> </text>
+
+##File
+
+FileName: CSVWriter.html
+FileType: OTHER
+FileChecksum: SHA1: 90C736F0B9AFA7EEF4B1E84C12A09265B5E709B8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: <text> http://www.bytecode.com.au"/>bytecode, http://www.w3.org/tr/html4/loose.dtd">, copyright &#169; 2005-2007 <a href="http://www.bytecode.com.au"/>bytecode pty ltd.</a></i> </text>
+
+##File
+
+FileName: ResultSetHelper.html
+FileType: OTHER
+FileChecksum: SHA1: 494425FFBC28E51856DC334FB3CBD8446704DA65
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: <text> http://www.bytecode.com.au"/>bytecode, http://www.w3.org/tr/html4/loose.dtd">, copyright &#169; 2005-2007 <a href="http://www.bytecode.com.au"/>bytecode pty ltd.</a></i> </text>
+
+##File
+
+FileName: ResultSetHelperService.html
+FileType: OTHER
+FileChecksum: SHA1: FB3A23E3040A3432BC1E8B6D0BB6AA1BAF29F7F7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: <text> http://www.bytecode.com.au"/>bytecode, http://www.w3.org/tr/html4/loose.dtd">, copyright &#169; 2005-2007 <a href="http://www.bytecode.com.au"/>bytecode pty ltd.</a></i> </text>
+
+##File
+
+FileName: ColumnPositionMappingStrategy.html
+FileType: OTHER
+FileChecksum: SHA1: E904F5BF9CFB0E2E57AE7F2E2AB9A27A4C0BCC2F
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> http://www.bytecode.com.au"/>bytecode, http://www.apache.org/licenses/license-2.0, http://www.w3.org/tr/html4/loose.dtd">, copyright &#169; 2005-2007 <a href="http://www.bytecode.com.au"/>bytecode pty ltd.</a></i>, copyright 2007 kyle miller. </text>
+
+##File
+
+FileName: CsvToBean.html
+FileType: OTHER
+FileChecksum: SHA1: 13F9D759990831B1D8B1F3795AF5986E8882A8F8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: <text> http://www.bytecode.com.au"/>bytecode, http://www.w3.org/tr/html4/loose.dtd">, copyright &#169; 2005-2007 <a href="http://www.bytecode.com.au"/>bytecode pty ltd.</a></i> </text>
+
+##File
+
+FileName: HeaderColumnNameMappingStrategy.html
+FileType: OTHER
+FileChecksum: SHA1: FCDAAC38D992605728188015C56C92278FC08A82
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> http://www.bytecode.com.au"/>bytecode, http://www.apache.org/licenses/license-2.0, http://www.w3.org/tr/html4/loose.dtd">, copyright &#169; 2005-2007 <a href="http://www.bytecode.com.au"/>bytecode pty ltd.</a></i>, copyright 2007 kyle miller. </text>
+
+##File
+
+FileName: HeaderColumnNameTranslateMappingStrategy.html
+FileType: OTHER
+FileChecksum: SHA1: 50598955E4F9041DB21C913B7EAF3D2BEF8D23E6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> http://www.bytecode.com.au"/>bytecode, http://www.apache.org/licenses/license-2.0, http://www.w3.org/tr/html4/loose.dtd">, copyright &#169; 2005-2007 <a href="http://www.bytecode.com.au"/>bytecode pty ltd.</a></i>, copyright 2007,2010 kyle miller. </text>
+
+##File
+
+FileName: MappingStrategy.html
+FileType: OTHER
+FileChecksum: SHA1: 05C8377F51AB2B7B6D5F333AFE451BDB1591B811
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: <text> http://www.bytecode.com.au"/>bytecode, http://www.w3.org/tr/html4/loose.dtd">, copyright &#169; 2005-2007 <a href="http://www.bytecode.com.au"/>bytecode pty ltd.</a></i> </text>
+
+##File
+
+FileName: package-frame.html
+FileType: OTHER
+FileChecksum: SHA1: 0EF674637F64361B4FDBA8C9FE20AB0E85788FC3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: <text> http://www.w3.org/tr/html4/loose.dtd"> </text>
+
+##File
+
+FileName: package-summary.html
+FileType: OTHER
+FileChecksum: SHA1: DAA2C346EB1459266C225F14D549460D5AF211CB
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: <text> http://www.bytecode.com.au"/>bytecode, http://opencsv.sourceforge.net/">opencsv.sourceforge.net, http://www.w3.org/tr/html4/loose.dtd">, copyright &#169; 2005-2007 <a href="http://www.bytecode.com.au"/>bytecode pty ltd.</a></i>, copyright 2007,2010 kyle miller.</td>, copyright 2007 kyle miller.</td> </text>
+
+##File
+
+FileName: package-tree.html
+FileType: OTHER
+FileChecksum: SHA1: 449079B251AC993D0F375CE9D51160E051D7675E
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: <text> http://www.bytecode.com.au"/>bytecode, http://www.w3.org/tr/html4/loose.dtd">, copyright &#169; 2005-2007 <a href="http://www.bytecode.com.au"/>bytecode pty ltd.</a></i> </text>
+
+##File
+
+FileName: package-use.html
+FileType: OTHER
+FileChecksum: SHA1: 0ABF7AB03657DF96B697311391B9BDEACF2531A7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: <text> http://www.bytecode.com.au"/>bytecode, http://www.w3.org/tr/html4/loose.dtd">, copyright &#169; 2005-2007 <a href="http://www.bytecode.com.au"/>bytecode pty ltd.</a></i>, copyright 2007 kyle miller.</td> </text>
+
+##File
+
+FileName: ColumnPositionMappingStrategy.html
+FileType: OTHER
+FileChecksum: SHA1: 6CF6A9F4CA3D629563A2AD3DC2C88B6E91CA96A6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: <text> http://www.bytecode.com.au"/>bytecode, http://www.w3.org/tr/html4/loose.dtd">, copyright &#169; 2005-2007 <a href="http://www.bytecode.com.au"/>bytecode pty ltd.</a></i> </text>
+
+##File
+
+FileName: CsvToBean.html
+FileType: OTHER
+FileChecksum: SHA1: 61E6ECB3D3A98C0B2A1EFF7A91E009B29A47C9BF
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: <text> http://www.bytecode.com.au"/>bytecode, http://www.w3.org/tr/html4/loose.dtd">, copyright &#169; 2005-2007 <a href="http://www.bytecode.com.au"/>bytecode pty ltd.</a></i> </text>
+
+##File
+
+FileName: HeaderColumnNameMappingStrategy.html
+FileType: OTHER
+FileChecksum: SHA1: 2B518B6EE0E85812D12E29C693D09EB82A760DB4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: <text> http://www.bytecode.com.au"/>bytecode, http://www.w3.org/tr/html4/loose.dtd">, copyright &#169; 2005-2007 <a href="http://www.bytecode.com.au"/>bytecode pty ltd.</a></i>, copyright 2007,2010 kyle miller.</td>, copyright 2007 kyle miller.</td> </text>
+
+##File
+
+FileName: HeaderColumnNameTranslateMappingStrategy.html
+FileType: OTHER
+FileChecksum: SHA1: 367B0FDBC5A3191694364E9AF725E2EB4C6715D3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: <text> http://www.bytecode.com.au"/>bytecode, http://www.w3.org/tr/html4/loose.dtd">, copyright &#169; 2005-2007 <a href="http://www.bytecode.com.au"/>bytecode pty ltd.</a></i> </text>
+
+##File
+
+FileName: MappingStrategy.html
+FileType: OTHER
+FileChecksum: SHA1: 04410DACD023F5F544CFE7EB67FD201266686450
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: <text> http://www.bytecode.com.au"/>bytecode, http://www.w3.org/tr/html4/loose.dtd">, copyright &#169; 2005-2007 <a href="http://www.bytecode.com.au"/>bytecode pty ltd.</a></i>, copyright 2007,2010 kyle miller.</td>, copyright 2007 kyle miller.</td> </text>
+
+##File
+
+FileName: opencsv-2.3.jar
+FileType: ARCHIVE
+FileChecksum: SHA1: C0FFD01065BC3FE571E1A4EB7014A03333F0663D
+LicenseConcluded: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##--------------------
+## Review Information
+##--------------------
+Reviewer: Person: The Duke of Highlander
+ReviewDate: 2013-08-26T08:32:01Z
+ReviewComment: <text> The analysis has been completely performed by an automated tool.  [---Q:LD,F:1.4,H:1.1,SV:1.1---]</text>

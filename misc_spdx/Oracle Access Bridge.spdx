@@ -1,0 +1,294 @@
+##-------------------------
+## SPDX Document Information
+##-------------------------
+SPDXVersion: SPDX-1.2
+DataLicense: CC-BY-4.0
+
+##-------------------------
+## Creation Information
+##-------------------------
+Creator: Nuno Brito
+Creator: Tool: TripleCheck 0.8
+Created: 2014-05-10T15:14:12Z
+
+##-------------------------
+## Package Information
+##-------------------------
+PackageName: Oracle Access Bridge
+PackageFileName: Oracle Access Bridge
+PackageDownloadLocation: NOASSERTION
+PackageLicenseConcluded: NOASSERTION
+
+##-------------------------
+## File Information
+##-------------------------
+
+FileName: ./accessbridge-2_0_2-fcs-bin-b06.zip
+FileType: ARCHIVE
+FileChecksum: SHA1: 322d1a1a887dbf30f0ef0e66aa43537b45728916
+FileChecksum: SHA256: 7f2c23aed738cec8a033161b11e96ddd1592881c3fa315e53f6614b989dc52c6
+FileChecksum: MD5: 77d23dfac47a71ff975693afcfb37f84
+FileChecksum: SSDEEP: 24576:8lSpUrzocu/5jLZ8EUMmTksFNgGcZVKV0/8848+hwa/dtQOL5wLhRSfn8:8lSp0COW881+medtQOtwLhp
+FileSize: 953 Kb (976192 bytes)
+
+FileName: ./accessbridge2_0_2/access-bridge-32.jar
+FileType: ARCHIVE
+FileChecksum: SHA1: 37e9732284fd578d6b30169a177af88b6f0973ef
+FileChecksum: SHA256: fb69dc83e665fa4090f13ed88f9eb7757639dce3e717cfc765832c7783549008
+FileChecksum: MD5: 756460ed7efdc11a65c54a7a9d30261c
+FileChecksum: SSDEEP: 1536:dGO+nfvB4FhmJDg1bbniDQ517c9N6oKKEZ:h+n3B4FhmdgtzjsQoaZ
+FileSize: 48 Kb (49173 bytes)
+
+FileName: ./accessbridge2_0_2/access-bridge-64.jar
+FileType: ARCHIVE
+FileChecksum: SHA1: 5f783df9dd581956c8e5a380403ac401d1da4715
+FileChecksum: SHA256: c26781a043951846922a8395b1ed37665f747932bfe81b63ecc89e4e32b41281
+FileChecksum: MD5: bcb50f90dd598eaa9577d2bcd3ec2015
+FileChecksum: SSDEEP: 1536:JfO+of2jFFhmJDg1bbniDQ517c9N6oKKEfw:U+oOjFFhmdgtzjsQoao
+FileSize: 48 Kb (49173 bytes)
+
+FileName: ./accessbridge2_0_2/access-bridge.jar
+FileType: ARCHIVE
+FileChecksum: SHA1: 7e1022f1fb70ab6d7e0131ca88314b81f6838651
+FileChecksum: SHA256: 9c684531f5b0d8b42e8d1cae3310992da5feb5236bab707799424f87c406034a
+FileChecksum: MD5: 8f615ec0fc094baa435cf29f64529d16
+FileChecksum: SSDEEP: 1536:GO+ffnxgFhmJDg1bbniDQ517c9N6oKKEQ:j+f/xgFhmdgtzjsQoaQ
+FileSize: 48 Kb (49165 bytes)
+
+FileName: ./accessbridge2_0_2/accessibility.properties
+FileType: OTHER
+FileChecksum: SHA1: 59739f5b02e2594964393b7ed585de6cc9a02d4f
+FileChecksum: SHA256: 76667ca56147d12b09c2cea3f29e8df63597e107435e3a90aa0017df10f96e9f
+FileChecksum: MD5: 99de066a3c03c26a459b7b68f902947d
+FileChecksum: SSDEEP: 3:nSkoZgZLXnuWxVEseMWMVAAiuKIn7IRAdSPGGzJ0vhRjfMaAHCRyvy:nBcAPWXBMVAkIiSPhwHkaAHCIa
+FileSize: 153 bytes
+
+FileName: ./accessbridge2_0_2/COPYRIGHT
+FileType: OTHER
+FileChecksum: SHA1: d4b51b420911d71f2c5e5632d0b0d29f76538fff
+FileChecksum: SHA256: e54a5351d88298e4c41e0bd628ab51d347201a9b3218f9437ae4562eb45cde97
+FileChecksum: MD5: 1c3fb095e8e2cd656bf5798ddf7e1897
+FileChecksum: SSDEEP: 48:JwIg9bW9WFNn8WQ7j321dF1UCbw2UuYcSp5cKeqZ/kj0hk6DdpQ592u1yUD:J8z8tn36/UCbidcK11G+k6DdpQTdt
+FileSize: 3 Kb (3412 bytes)
+
+FileName: ./accessbridge2_0_2/jaccess.jar
+FileType: ARCHIVE
+FileChecksum: SHA1: cd4ce2fbe6b4989d74dca3cdb748e773356e2a33
+FileChecksum: SHA256: 5b15b014f716fa53926bd20ff231b751efa25d617443b745002b0d046d260585
+FileChecksum: MD5: 86fe83b39cb0606c9e792907592b8199
+FileChecksum: SSDEEP: 768:ktfIQZy4u4ODX1hPHdj0bAC/7khUZh0WyBLOI7AsFYCAPNDkg:kGQn0bDHZ6Bj0WyBa1WA7
+FileSize: 42 Kb (43504 bytes)
+
+FileName: ./accessbridge2_0_2/JavaAccessBridge-32.dll
+FileType: BINARY
+FileChecksum: SHA1: a44c67621b65205d0b36fc2eb5634b39d26e744b
+FileChecksum: SHA256: 6c474e72eba6efb70bf95a8080501e26429ff461773e8a7eab35ccbebb26fdd8
+FileChecksum: MD5: 6b4cd5a484519199c53971af7eeb47ce
+FileChecksum: SSDEEP: 3072:Z7GW8reRdBxM/9YfCyKKVvbaHrgc6kZLyGkuKMBy4Zf22YY4Jlu9Tl8ChbzE+S4:dGyxMBy5Oac
+FileSize: 179 Kb (183808 bytes)
+
+FileName: ./accessbridge2_0_2/JavaAccessBridge-64.dll
+FileType: BINARY
+FileChecksum: SHA1: 5a9edbe6dbfdf1061444439dbecd6c05e9e28552
+FileChecksum: SHA256: d50ac34327fd0a44c8264a9e7aaa901fb7c94af7c765b6a37c4a400c9d8d95c7
+FileChecksum: MD5: 910b4807f983330959e5568c6cbb2523
+FileChecksum: SSDEEP: 3072:1ezZb8PjR72MlRuJRjTtHqk+W60gxpkIxgr+N6lv7qXbwsKkpN/kNF7ymL6Zvmm:1Ip8PjxuJVTtKkKVxucEiS7fBX
+FileSize: 197 Kb (202240 bytes)
+
+FileName: ./accessbridge2_0_2/JavaAccessBridge.dll
+FileType: BINARY
+FileChecksum: SHA1: ba1ccf05f9ecd87b06866a94456a0b71eac974a4
+FileChecksum: SHA256: 1ddb5763ab6daf109352a20377c195b6052c05118a55085080078fb334d2f8c4
+FileChecksum: MD5: 5bb941850b6f8dcb98de5ba89dd9fefe
+FileChecksum: SSDEEP: 3072:n7GkxG+Ow0JIIPv50LU6WGfYJCgolOf+7NSQWKVvbaHrgc6kZLyGkuKMBy4Zf22:7Gd7Pv50LU6WGfYJC3lONQ1O6
+FileSize: 178 Kb (182272 bytes)
+
+FileName: ./accessbridge2_0_2/JavaFerret-32.exe
+FileType: BINARY
+FileChecksum: SHA1: 579f4831b6516978d4861bd8a1b75e8c6de491c5
+FileChecksum: SHA256: 9c186626a5777f5eb19d81cd55f528d3e43ee2e5d3e2c1bf1053215ba2824e66
+FileChecksum: MD5: fdcd4891ed0c244192d4cfaf15e0b12c
+FileChecksum: SSDEEP: 1536:TMic2Tqbz/k2nXD80uEn8Ep/vlk1CDFhp79Q0EZhwnwmWrVnkpSkVMRyUNjqv9r:JTXCXSEnPlk1a79REZU/wN+v9Hk
+FileSize: 117 Kb (120320 bytes)
+
+FileName: ./accessbridge2_0_2/JavaFerret-64.exe
+FileType: BINARY
+FileChecksum: SHA1: a4c4cada45ec7e9ebb7a020c891cde3a73fbecbe
+FileChecksum: SHA256: 045a7ec199bcaf809d60b91137c2f8d7efb2522ef66b59ec38307441c152abff
+FileChecksum: MD5: c58511e9f413868c95eeb0e6fa929380
+FileChecksum: SSDEEP: 3072:X8DRlOKw1N4Y+B1NMTnCeYxOgc430bMYKnjJkJsc:X86J1X+B1iTXY4g9kwYK2J
+FileSize: 128 Kb (131584 bytes)
+
+FileName: ./accessbridge2_0_2/JavaFerret.exe
+FileType: BINARY
+FileChecksum: SHA1: 4f16b3925c1b368ba3f9e0c7c9ab33139b28d440
+FileChecksum: SHA256: c80799828305a2e7fde73e6b853dd3fa195c1e275a1d49f8e3971d36f9746f96
+FileChecksum: MD5: ded3913da92a178c58565c4d9619c9db
+FileChecksum: SSDEEP: 1536:VY4BlN7BPX80ugAiEp/+62FRDFhCcg0EG2nwmWrVXksSuV8Ryd41atn:BBPugAQ62FocBEGgmR41atn
+FileSize: 116 Kb (119296 bytes)
+
+FileName: ./accessbridge2_0_2/JavaMonkey-32.exe
+FileType: BINARY
+FileChecksum: SHA1: 9d316241d5e9f291483c4adedb8b6105a19e4172
+FileChecksum: SHA256: 586c6ae17eb36ea508a5572be83dea732f4b277f2b8363aaed3ed513bd2c3938
+FileChecksum: MD5: 152d505290a58be765283ff2f3248e91
+FileChecksum: SSDEEP: 1536:YRZgTDdYJNg4lV/RARlL5H+L1ahDMxnPmlzukCKYSPV8RyY5ZLUq:YRZcEgcARWL1aJMUFc3LU
+FileSize: 111 Kb (113664 bytes)
+
+FileName: ./accessbridge2_0_2/JavaMonkey-64.exe
+FileType: BINARY
+FileChecksum: SHA1: 8b027c1551c9a2b49b33781dda7cd2587e023dad
+FileChecksum: SHA256: bdeae4ceb330fc19a2ddb342520ab70760bfa9f0852efb3fa5a929ae1ec35004
+FileChecksum: MD5: 6fb38f17a845f75f3a7b39e91e6ee62e
+FileChecksum: SSDEEP: 3072:xF5fxfeLaBDT/9j9Liw1erEnv9mHQqBCRWJAQ:xrfxQapTR9GwwYv9mHQqBCf
+FileSize: 122 Kb (124928 bytes)
+
+FileName: ./accessbridge2_0_2/JavaMonkey.exe
+FileType: BINARY
+FileChecksum: SHA1: b88be18754047e00010f41dd574b5d0ab41fe845
+FileChecksum: SHA256: 4cf943c2aadea69a933b09cf745184f42c9496c8d179a29620b7f42446ddf689
+FileChecksum: MD5: 72763a05c334e938e9c9b5c2a50b9390
+FileChecksum: SSDEEP: 1536:JDkj+E2B8GNhnl4/9qN7lLzuiEZ0E4PnfmURBk0ASNVMRyd/ZLcj:5kSE2lhsqN7RECE4mERxLcj
+FileSize: 110 Kb (112640 bytes)
+
+FileName: ./accessbridge2_0_2/JAWTAccessBridge-32.dll
+FileType: BINARY
+FileChecksum: SHA1: 9d92914ed0d2177c007f3c799f72eaa8af0ef4a1
+FileChecksum: SHA256: c7fa06eba56ff2f9f0f8bb0c6797a56fc04ae1c099725fe5ec0aceee3be9b25c
+FileChecksum: MD5: 7f569e6bfc0780f841576c61657659c4
+FileChecksum: SSDEEP: 768:ZDxa3z8E8TfVEhDU0mnTEDz7vyGUW8/D:SzMkD+FrW
+FileSize: 34 Kb (34816 bytes)
+
+FileName: ./accessbridge2_0_2/JAWTAccessBridge-64.dll
+FileType: BINARY
+FileChecksum: SHA1: c27b1d1cfd3c5c8187556937dbc2878ad9597f93
+FileChecksum: SHA256: 1e24401cb1ab9d20f01dc04bae72791bd098a23435ca3ce36c75cfb7d6c24e76
+FileChecksum: MD5: 24b03695032dda34ab03d2a2a364797e
+FileChecksum: SSDEEP: 768:aLuJUWcouOK8TgiYcrlxInHK9QZnzKhAXjkDPg+y1JiHW:aLuhTgkPIq9QZzkG1r4HW
+FileSize: 39 Kb (39936 bytes)
+
+FileName: ./accessbridge2_0_2/JAWTAccessBridge.dll
+FileType: BINARY
+FileChecksum: SHA1: cce493fb435d7dd98aaea84dc9cca39ad3fe3f2b
+FileChecksum: SHA256: dbec728b5cd7898ae5aa301b3929d7617922b36133fe1f9617dccebfb4112546
+FileChecksum: MD5: 8082eb3f5c6fa99ef0ca61e529109c71
+FileChecksum: SSDEEP: 768:ZDxa3z8E8TfVEhDU0mnTEDz7vy0UW8/D:SzMkD+FdW
+FileSize: 34 Kb (34816 bytes)
+
+FileName: ./accessbridge2_0_2/LICENSE.txt
+FileType: OTHER
+FileChecksum: SHA1: c9c5b060f7645445cb93ffebc2661a5e38bb5781
+FileChecksum: SHA256: f5e1f5085b9d2aff5aab46ebd625afb6f7437d22c8c70e3b47d353263253f35e
+FileChecksum: MD5: ac8ebc3d37848e79aed5d78725ae5df3
+FileChecksum: SSDEEP: 3:c3AXFshzhRSe:c9hzhge
+FileSize: 43 bytes
+
+FileName: ./accessbridge2_0_2/README.txt
+FileType: OTHER
+FileChecksum: SHA1: 6fd3d8c56a66962d1044c83e746707dd511f7af0
+FileChecksum: SHA256: 7640a24de3ce59f10c3f7c100e7f94dae06af2525d823380ac2eba0d8d9a7a9f
+FileChecksum: MD5: 8e444589f94638c4b046d045d0fd07f9
+FileChecksum: SSDEEP: 3:c3AXFshzhRSkG:c9hzhgkG
+FileSize: 49 bytes
+
+FileName: ./accessbridge2_0_2/src/include/AccessBridge.h
+FileType: SOURCE
+FileChecksum: SHA1: 6d39b7a39e58e39538bab8e4704d413d28525f97
+FileChecksum: SHA256: 7dcd8c046abbd5094ec8dd03d4f2adee193317030bfc56f58477e26d51a9e58a
+FileChecksum: MD5: 6a6d3e4ffefa00c5493ee29ad8680eed
+FileChecksum: SSDEEP: 384:sP7IgLBe9qqZsIkz7/X61VHmncu+6G6PU1+SQWR3c/VV8VVRudrPFoC540DTfY+c:vsi+SQWR3c/VV8VVRudrPFoC540DTfY1
+FileSize: 16 Kb (16839 bytes)
+FileLOC: 392
+
+FileName: ./accessbridge2_0_2/src/include/AccessBridgeCallbacks.h
+FileType: SOURCE
+FileChecksum: SHA1: d05fa0ed9ec231dd26161200e001e3ad6f928679
+FileChecksum: SHA256: 6bf94d9494ff963ff7a99a9ab838a92434b1f05b6718053684cb03875cefb9cd
+FileChecksum: MD5: ca420d24f30198284182b0e97f192f67
+FileChecksum: SSDEEP: 96:u+6/h2F2s2t2R202A2d2q2h2fH2s2o29H29TS2nL2C2B2X2c2M2pE2K2L2vdQ22:ux/oG6
+FileSize: 3 Kb (4032 bytes)
+FileLOC: 76
+FileCopyrightText: <text>Copyright (c) 2005, 2010, Oracle and/or its affiliates. All rights reserved.</text>
+
+FileName: ./accessbridge2_0_2/src/include/AccessBridgeCalls.c
+FileType: SOURCE
+FileChecksum: SHA1: 21e2b0428ef3e31f2324b5ba64481e06b0cbf5e9
+FileChecksum: SHA256: 42183590006f535947d99ab23043bf5f791519cfece7471764787edc1783e80c
+FileChecksum: MD5: 51562d89f7eadce1e8c36928b3c4db95
+FileChecksum: SSDEEP: 768:9ZP/2+UU1UKCr25dxMjmQHkPkbckiYqbJ1L:zP/2+Uq+25nMjmQHkkbcrYqbJ1L
+FileSize: 43 Kb (44834 bytes)
+FileLOC: 967
+FileCopyrightText: <text>Copyright (c) 2005, 2010, Oracle and/or its affiliates. All rights reserved.</text>
+
+FileName: ./accessbridge2_0_2/src/include/AccessBridgeCalls.h
+FileType: SOURCE
+FileChecksum: SHA1: fdf7134105f50d9a90a147599019b1665a8d0420
+FileChecksum: SHA256: b15bf31d014ce5ac78122601919cc4930323a00becad94c6fb11fe4ced6a6efd
+FileChecksum: MD5: 5791352329e3876f8af464a2379cbad6
+FileChecksum: SSDEEP: 768:eSCUQz9dZc8++aapveNoya+zxHkPwkiyqh:eSCUQz9dZc8++aapveCya+zxHkwryqh
+FileSize: 32 Kb (33709 bytes)
+FileLOC: 550
+FileCopyrightText: <text>Copyright (c) 2005, 2010, Oracle and/or its affiliates. All rights reserved.</text>
+
+FileName: ./accessbridge2_0_2/src/include/AccessBridgePackages.h
+FileType: SOURCE
+FileChecksum: SHA1: bf8bc7031cfbc46bf78777932d5abf68563441a8
+FileChecksum: SHA256: 0c16b6de465c25ab93ce66d36d592f2a30b1d3e9d75dfda4415660f249d034bb
+FileChecksum: MD5: b4bf4a220c0766d0ef5ca16df4591bbc
+FileChecksum: SSDEEP: 1536:FaMIKnPRA0yuYaktZErDCUoI13XLqqBP3XxqqBB:nRA0yuYat3XP3Xb
+FileSize: 70 Kb (72497 bytes)
+FileLOC: 2184
+FileCopyrightText: <text>Copyright (c) 2005, 2010, Oracle and/or its affiliates. All rights reserved.</text>
+
+FileName: ./accessbridge2_0_2/src/sample/JavaFerret.cpp
+FileType: SOURCE
+FileChecksum: SHA1: 5b724ae0210a4967fcd50fbf8482e7f4bf1b1be1
+FileChecksum: SHA256: 4a41602d788d0b66a799c85efc93c22a9124ac9bae36db343b698c6e40e94204
+FileChecksum: MD5: 045916da1697c4cc45a50265bdff5e69
+FileChecksum: SSDEEP: 384:uvygTYgAnkVk5tNtIBbdWTJ/3qqWBqoKvV6JrHckWFBUMvTPJ0w+Gs:LkuIBbdWTJ/Bo+6JrYFyePJ0F
+FileSize: 32 Kb (33310 bytes)
+FileLOC: 890
+FileCopyrightText: <text>Copyright (c) 2005, 2010, Oracle and/or its affiliates. All rights reserved.</text>
+
+FileName: ./accessbridge2_0_2/src/sample/JavaMonkey.cpp
+FileType: SOURCE
+FileChecksum: SHA1: 0a7a38ba117c2852d71843b8f02a7de7f6e5b997
+FileChecksum: SHA256: c4e548c9c34868994170f629d9ebb85c6ff712979b7404bcb487227d5c8ba164
+FileChecksum: MD5: dba77cd105796aa8381745bc3ca1ec26
+FileChecksum: SSDEEP: 192:utyxw40uEvqDU9oqfHOc6maRGj2KPsU7a/6p9nSmaOHezCGZNQDVkaBet2GDLo:utewicHOjGj2c7CmaOnGqVkaQYGg
+FileSize: 13 Kb (13966 bytes)
+FileLOC: 462
+FileCopyrightText: <text>Copyright (c) 2005, 2010, Oracle and/or its affiliates. All rights reserved.</text>
+
+FileName: ./accessbridge2_0_2/THIRDPARTYLICENSEREADME.txt
+FileType: OTHER
+FileChecksum: SHA1: 45c8ece7a4db0764ceba313286be26d7b157d343
+FileChecksum: SHA256: 588644170bbdee31f02f9f1fe65c66a4b85f11916f540af0e01e0fa0746488c8
+FileChecksum: MD5: af3a27da214d53559ab5c5109f257b8d
+FileChecksum: SSDEEP: 3:c3AXFshzhRbW4uv:c9hzh5uv
+FileSize: 53 bytes
+
+FileName: ./accessbridge2_0_2/WindowsAccessBridge-32.dll
+FileType: BINARY
+FileChecksum: SHA1: 51ee027c739118d00b6a757916710b7e3cf23468
+FileChecksum: SHA256: c2ddf4b726e63394e88f5093c0749f6f754d0a62c3e094e459127cd5b8c506dd
+FileChecksum: MD5: e917d6865cc287a6d2eb01867cdb01d1
+FileChecksum: SSDEEP: 3072:k5pscjzyMjHqQfJQn/9MP25e/DlbgMrCRYs5GhNlZqK:q25iDlQYs0lsK
+FileSize: 100 Kb (102912 bytes)
+
+FileName: ./accessbridge2_0_2/WindowsAccessBridge-64.dll
+FileType: BINARY
+FileChecksum: SHA1: bd67ed9c6982dbf65585103745697b535375e959
+FileChecksum: SHA256: 170a89dc0ec42b50d130416d2417ac3624c325f048d7a64bc121d801d09e7872
+FileChecksum: MD5: 73fc7bebdb3b74b4e60e130f30bb9a3d
+FileChecksum: SSDEEP: 1536:LlK/UDS4nWF9FGBAAx/Z0kIhgT5b2Il/RJXZMKiJgevx55EABbrn8tK7sZc7Wk:QrLfGmL+T5b2Ip/XaP55DBbr2K7s6y
+FileSize: 114 Kb (116736 bytes)
+
+FileName: ./accessbridge2_0_2/WindowsAccessBridge.dll
+FileType: BINARY
+FileChecksum: SHA1: d005e2957936f5dc02b2acbf6059bfa1656c1d8a
+FileChecksum: SHA256: 9676ece8b6e53f6620743727d72c59b7728d7cb1407f6fd95cb6d24fb4e1f481
+FileChecksum: MD5: 61831c26d8ef04241e4089d06dc14ec0
+FileChecksum: SSDEEP: 1536:UuvBT9cBdiBdv5AlBS+l7gthoEgBrSQMcXja0dDkzsMO2tqGk8E8Wj0:DpRcwdavEg9SRcd8kGKlj0
+FileSize: 98 Kb (100864 bytes)
+

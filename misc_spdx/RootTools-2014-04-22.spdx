@@ -1,0 +1,493 @@
+##-------------------------
+## SPDX Document Information
+##-------------------------
+
+SPDXVersion: SPDX-1.2
+DataLicense: CC-BY-4.0
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Nuno Brito
+Creator: Tool: TripleCheck 0.8
+Created: 2014-05-08T23:24:49Z
+
+##-------------------------
+## Package Information
+##-------------------------
+
+PackageName: RootTools-2014-04-22
+PackageFileName: RootTools-2014-04-22
+PackageDownloadLocation: NOASSERTION
+PackageLicenseConcluded: NOASSERTION
+
+##-------------------------
+## File Information
+##-------------------------
+
+
+FileName: ./.gitignore
+FileType: OTHER
+LicenseConcluded: Apache-2.0
+FileChecksum: SHA1: 944752401f4939b51cac3c919cff1212233701d3
+FileChecksum: SHA256: 3f5f08da58c42cfe00ed43392b186057dca05033bbc99c7a8a0770b2f8ce48c4
+FileChecksum: MD5: b5b0965e1c7964c7a06aa45a8d3b9145
+FileChecksum: SSDEEP: 3:pAQEyVCxreWVqg26k:ucyepp
+FileSize: 57 bytes
+
+FileName: ./.idea/.name
+FileType: OTHER
+FileChecksum: SHA1: c1e83cc3919931bbb8f7dc24c2c787593d46ba68
+FileChecksum: SHA256: a2a3be8e64ee83ba00adc2e2595575935e31dfd94e40619f9bdff162f68800b2
+FileChecksum: MD5: e672c0d2470e184c423e82692f717a7f
+FileChecksum: SSDEEP: 3:HMKY:HLY
+FileSize: 9 bytes
+
+FileName: ./.idea/compiler.xml
+FileType: OTHER
+FileChecksum: SHA1: 6fc4c3faf74ccfa886655fb062334d2334e66685
+FileChecksum: SHA256: d49c46b3e79168b137b8c775d23af3d59cbfcfd3a089dc40369b99da1abe7734
+FileChecksum: MD5: 7e7efa3e3d6514a0ff290e4dfce3cbe9
+FileChecksum: SSDEEP: 12:TMHd9G7ir9q99q3qvyjlckWkOCCy2KZsJjV+A57xZAMOY5sLzzKX92Z2PEtb:2d9kcg99qKyjOkWLCC7OsJjV/xxZAay7
+FileSize: 711 bytes
+
+FileName: ./.idea/copyright/profiles_settings.xml
+FileType: OTHER
+FileChecksum: SHA1: 1d0d469cbe56ac0533dbf79301e13af535cd5d32
+FileChecksum: SHA256: 6e7da18859caee16cf1ccb764b593eaed927089286881462466f55eee89709b6
+FileChecksum: MD5: 14202fec53386a662a0986ec777dec87
+FileChecksum: SSDEEP: 3:IK0FAqWDZwtFZWAYE9fU/zQX3u5NAaVtdKbAB:L0qjY0lptdyE
+FileSize: 111 bytes
+
+FileName: ./.idea/encodings.xml
+FileType: OTHER
+FileChecksum: SHA1: 84a3e2826b2b347096020089807b162036f3fd3e
+FileChecksum: SHA256: 0234e0fa9139efc865c3e6b2099a91944493dd7867b5e883ae5e10511cc239e9
+FileChecksum: MD5: f1c5edfa5b1a67aabcb9e41674afa252
+FileChecksum: SSDEEP: 3:vFWWMNHU8LdgCfrUAGuXWQHRrFFZGKkFAqpKBM2lQHKzOAlLBWfbiKlXKtM529ZZ:TMVBd/rUAG7SRrgwM1HOvlLBW2Kla3tb
+FileSize: 166 bytes
+
+FileName: ./.idea/gradle.xml
+FileType: OTHER
+FileChecksum: SHA1: 4eee4d708e1f7be2ce6f35aedec0654c3e584fec
+FileChecksum: SHA256: 77c74f5bce47dd48b8d75bc2f065a7145b7b116665786f296abff467e98e0f20
+FileChecksum: MD5: 05593254f2e2273526c4f198f2a6662b
+FileChecksum: SSDEEP: 12:TMHd9G7irm1S99AR0mA8xq3C99DKjoZY99a4QlBTNY99IxgXBTNIXBTpRLvNwtl7:2d9kcj99m0mAE99ejIY99a4+NY99ISlZ
+FileSize: 568 bytes
+
+FileName: ./.idea/misc.xml
+FileType: OTHER
+FileChecksum: SHA1: ceece8a07c033930eded0554c2a33529ea350763
+FileChecksum: SHA256: d07759eb0906434e9fe010b275d492f511d7b6687b0c278824f0c9555c597341
+FileChecksum: MD5: 1b64944feb44ca01f1824f6f53ceb51a
+FileChecksum: SSDEEP: 48:c9w2b2PGSBnZimGSBns1GSBnh4GSBnbI:wKRBnZiUBns7Bn0BnbI
+FileSize: 1 Kb (1804 bytes)
+
+FileName: ./.idea/modules.xml
+FileType: OTHER
+FileChecksum: SHA1: 132c52832597bae62e1e920b45aa31d212a7b6b8
+FileChecksum: SHA256: ff3d2bdb93bb927a344583d5bcb4980588c697ede1685ad185a361cebc15dc73
+FileChecksum: MD5: 0a845758e2e9637c6d738113237e139b
+FileChecksum: SSDEEP: 12:TMHd9G7irUCgOjkkRuTBTpRVlkkRwTBTpRnpaPEtb:2d9kcUL4TO1DVlTc1Dnb
+FileSize: 401 bytes
+
+FileName: ./.idea/scopes/scope_settings.xml
+FileType: OTHER
+FileChecksum: SHA1: fa07d9d70692f2d31ace346398287a038e2bdc2e
+FileChecksum: SHA256: c1818c37eb63a10bcd7c575502aff53cdbff43df30419ccd9c4f6bf7792af4d0
+FileChecksum: MD5: 3d0b1957d39aa5636904788c54e654cf
+FileChecksum: SSDEEP: 3:IK0FAqBA8MKBIFZWRhNyNFwI9HJsZC2gcqYJW9FNREsvCbAB:R8MzqRLyX99CVLqY6DJiE
+FileSize: 139 bytes
+
+FileName: ./.idea/vcs.xml
+FileType: OTHER
+FileChecksum: SHA1: 2117c215addda09e3c5e8133a092d6ed6ac3b5b4
+FileChecksum: SHA256: 3a66f97c1066f54fd5a87d7479cad20846e0b65727b62184c9d75a46e4a4c6d9
+FileChecksum: MD5: 1b4ab30910ae53c73594cd0e3db9840b
+FileChecksum: SSDEEP: 3:vFWWMNHU8LdgCfrUAGuXWQHRrFFZGKkFAqqTJAHD/ILBanFKfu5dKbAOEAGb:TMVBd/rUAG7SRrgiyHD0SroPEtb
+FileSize: 166 bytes
+
+FileName: ./build.gradle
+LicenseConcluded: Apache-2.0
+FileType: OTHER
+FileChecksum: SHA1: c05f22829012efee66e33ff3c31153203400fe58
+FileChecksum: SHA256: ca1092235216984b9335a1d9317b144b8335d8c899936666b7c1ebd0a60bf569
+FileChecksum: MD5: 65a40b76481dd9af8f9aa7306af27598
+FileChecksum: SSDEEP: 3:RFM+QMaOVQFcKTmE4CQIMQK7NjOEJieRBBen:jEMDVQFcOQIc5rMeROn
+FileSize: 99 bytes
+
+FileName: ./gradle/wrapper/gradle-wrapper.jar
+FileType: ARCHIVE
+FileChecksum: SHA1: e614e3b2edc63a9cc423437dea087c91962254f5
+FileChecksum: SHA256: e2b82129ab64751fd40437007bd2f7f2afb3c6e41a9198e628650b22d5824a14
+FileChecksum: MD5: d7f554d57f4d4428bc2fea69e36ef055
+FileChecksum: SSDEEP: 768:qDKxscwUYLZ8IuR907BIMyL9WXHR4NFe4FBKgR2hqBp4zcpfY+oUFOy22OxOc:fscVYV8T6afsVgR2oBFg+VlJi
+FileSize: 48 Kb (49896 bytes)
+
+FileName: ./gradle/wrapper/gradle-wrapper.properties
+FileType: OTHER
+FileChecksum: SHA1: 9a3084edfac25fad121f40386dafae6eaaee090d
+FileChecksum: SHA256: a7d6034706ba799c5f30696c061ef329ee507c583e6d6721a1807b24a5c4ca2a
+FileChecksum: MD5: ac051e32de3f8e035ba0bfbcc73888b7
+FileChecksum: SSDEEP: 6:DWLtIc8tuXRfP8IYOMKXRBw6JTqEWZ6r2:tgfUjO7tTq/Z6i
+FileSize: 229 bytes
+
+LicenseConcluded: Apache-2.0
+FileName: ./gradle.properties
+FileType: OTHER
+FileChecksum: SHA1: fb8e23c0f144ce5b168aebfbf3e7989a2da3e804
+FileChecksum: SHA256: 2d4ad9d18b9c4085f347f8e484b7778b8f3caa6ca8ec76c6ed87d01884d208a6
+FileChecksum: MD5: f5cc5ce936d7c10bd363ae1ae93b4e42
+FileChecksum: SSDEEP: 24:subRJQ3k9SM9e8sRAHLEnZz1VrgIXXmZWU4F3cvAqx0qiWIr:PbSkE8s1ZhVrQZWhac
+FileSize: 853 bytes
+LicenseConcluded: Apache-2.0
+
+FileName: ./gradlew
+FileType: OTHER
+FileChecksum: SHA1: 446223e9865a320cb76bdf19073a68c3479a4029
+FileChecksum: SHA256: 874d75d37bf38c810a8314e0b2f78a3c77fce9437963ae33cec8543d92662b61
+FileChecksum: MD5: a670520d9d36833b3e28d1e4b73cbe22
+FileChecksum: SSDEEP: 96:ValKoZcER0JZ9nxKKXUCeW+eAjwlwLh2jfj9jwjSjDjFN5I:V8KHERY/xKSZeWOjcI
+LicenseConcluded: Apache-2.0
+FileSize: 4 Kb (5080 bytes)
+
+FileName: ./gradlew.bat
+FileType: SOURCE
+FileChecksum: SHA1: cf68b95a4029e352fe1ee002bb367ac1b686f9ad
+FileChecksum: SHA256: c13c6e91b9a517783976de213d46398c661ea9e17651376d7301e839eaedcc62
+FileChecksum: MD5: 375ddea382b6c56a7be2a967a20e0ab5
+FileChecksum: SSDEEP: 48:YmdmK6jSdwixW2WK0N2gjPWK0mK5ZCe3duCmKfzfbzx1:YmESdiaP5PP
+FileSize: 2 Kb (2404 bytes)
+FileLOC: 90
+
+FileName: ./RootTools/.gitignore
+FileType: OTHER
+LicenseConcluded: MIT
+FileChecksum: SHA1: 126ae64f5b4735fbf744089a994e97c30d4cf1fb
+FileChecksum: SHA256: 5b46eb48d96e8571e8c93e4ef4f6ffbe6807b6d7350664a36a064e1167a32718
+FileChecksum: MD5: 48961f264cd3fbeeb72a6691fc80d102
+FileChecksum: SSDEEP: 3:aX:aX
+FileSize: 7 bytes
+
+FileName: ./RootTools/.idea/copyright/profiles_settings.xml
+FileType: OTHER
+FileChecksum: SHA1: 1d0d469cbe56ac0533dbf79301e13af535cd5d32
+FileChecksum: SHA256: 6e7da18859caee16cf1ccb764b593eaed927089286881462466f55eee89709b6
+FileChecksum: MD5: 14202fec53386a662a0986ec777dec87
+FileChecksum: SSDEEP: 3:IK0FAqWDZwtFZWAYE9fU/zQX3u5NAaVtdKbAB:L0qjY0lptdyE
+FileSize: 111 bytes
+
+FileName: ./RootTools/.idea/misc.xml
+FileType: OTHER
+FileChecksum: SHA1: 50708122c725e560cf8099403afb2651bf34f8a4
+FileChecksum: SHA256: 9e186ba633f63944b14fcd88157518e58f916f2ad5a577aa4bd10f84a9934bc4
+FileChecksum: MD5: 76bfe5c8f2d264cd34602adcb81bf600
+FileChecksum: SSDEEP: 24:2d9kcL2bTRRPNCz3n7VxhWw1Dt+99czuo99To99Aro99A/o99d/o99b60o99c4mw:c9V2b6n77hWaDtcq3aASA+8b61c4v8M1
+FileSize: 1 Kb (1324 bytes)
+
+FileName: ./RootTools/.idea/scopes/scope_settings.xml
+FileType: OTHER
+FileChecksum: SHA1: fa07d9d70692f2d31ace346398287a038e2bdc2e
+FileChecksum: SHA256: c1818c37eb63a10bcd7c575502aff53cdbff43df30419ccd9c4f6bf7792af4d0
+FileChecksum: MD5: 3d0b1957d39aa5636904788c54e654cf
+FileChecksum: SSDEEP: 3:IK0FAqBA8MKBIFZWRhNyNFwI9HJsZC2gcqYJW9FNREsvCbAB:R8MzqRLyX99CVLqY6DJiE
+FileSize: 139 bytes
+
+FileName: ./RootTools/.idea/workspace.xml
+FileType: OTHER
+FileChecksum: SHA1: 1710c471682a8f716c8cf61eb606a4103969e8bc
+FileChecksum: SHA256: 7e988b78fad4910e03b783c768d73eae9efb588fb363d08a50c3d246db05a594
+FileChecksum: MD5: 163365d071f00e542a60ea24d09d4cb3
+FileChecksum: SSDEEP: 192:YUj8cCljDEsXKQpgsrOFOAFOAcOAtOAMVYkXeuQdBqpoWJ4hFESVFunfnHncnbI:xj1vL1X58BYkhFEOufHc8
+FileSize: 24 Kb (25404 bytes)
+
+FileName: ./RootTools/build.gradle
+LicenseConcluded: MIT
+FileType: OTHER
+FileChecksum: SHA1: 5eefa99e78ebbb8e3dda7f9e343921141b93a625
+FileChecksum: SHA256: 20f5641ef5a5ae965977605da3f012c2f41f737cc8f492ec96cd2285ee615a62
+FileChecksum: MD5: f331a4c143c82c820d2c63603f2b5563
+FileChecksum: SSDEEP: 24:3ohvSU5YC2a8nz5A8tmrzfQ470ki/snWy6hpu:3ohv7Y1a8nze8tKQ44by6u
+FileSize: 814 bytes
+
+LicenseConcluded: MIT
+FileName: ./RootTools/proguard-rules.txt
+FileType: OTHER
+FileChecksum: SHA1: 5deed9b42a2c913e6d0add6c9a992c56e4d7cc55
+FileChecksum: SHA256: 16dcc7a608d8920a55b9ed92817d93a321d99d679dd80c36e7d3cbc9a895045b
+FileChecksum: MD5: 796a1c7cacb87ae7f56bf5c749ffd018
+FileChecksum: SSDEEP: 12:yPtZ6FE2hnj5ysJLdRxe2Rye24D8ZBGEKlXivYRKjRYo2YWK94U3C0/WAaNwFk9K:Y2Zj8GLjRyeNAnKBiAIjOo29ex3HWBK
+FileSize: 658 bytes
+LicenseConcluded: MIT
+
+FileName: ./RootTools/RootTools-RootTools.iml
+FileType: OTHER
+FileChecksum: SHA1: 3b72a0535ce730747983e0330e8cdbb8516fa6ce
+FileChecksum: SHA256: cbe7695bca57656d4fdcdf32d653823e6cf82469bca4b3b4e1d89474cbfbd447
+FileChecksum: MD5: 08a0c6ddd0c17d7060786353e96e0dc1
+FileChecksum: SSDEEP: 96:USoDLfxdscoXfRUBU9UQUFTX2x5IO8Q62UqYuA:afxdscoXfRUBU9UQUJX2x5IO8Q62UqjA
+LicenseConcluded: MIT
+FileSize: 5 Kb (5500 bytes)
+
+FileName: ./RootTools/RootTools.iml
+FileType: OTHER
+FileChecksum: SHA1: e108f33f3bfde4806e6aadee11601ae6818a9d07
+FileChecksum: SHA256: 3fa31083ff6987f7f6b6a552100e262bc34caf4517f567261df8b04f250641b1
+FileChecksum: MD5: d66f5de7c8645fb1fe59e69848780617
+FileChecksum: SSDEEP: 12:TMHd21AHfr2LEsc61q99jQzocxG8b7E9+q99SiPYmcxG8baYKek4vFFOmgww2HPh:2d21uz2s6I99/f1Z99S0fNSOmgJaPJMA
+FileSize: 750 bytes
+
+FileName: ./RootTools/src/main/AndroidManifest.xml
+FileType: OTHER
+FileChecksum: SHA1: d5e32a72a35e6a0f0ed37cb3025386d1ddae5f34
+FileChecksum: SHA256: 748c96b614b83860dceaf571b0707cc015c02524e8d3a122b0dd16cdaa49e78a
+FileChecksum: MD5: fddc1b98f7ad4ca65e3752caf47ee0b1
+FileChecksum: SSDEEP: 6:6nhAyiUzA7WpBLHBgrAB5zn69BP4UG6JEZnLLn:ShAyvASpBKrk5zUPRs3n
+FileSize: 247 bytes
+
+FileName: ./RootTools/src/main/java/com/stericson/RootTools/Constants.java
+FileType: SOURCE
+FileChecksum: SHA1: 13a0e064555090b131e422a3a1fea9ff14e5f32e
+FileChecksum: SHA256: b51dfd53b5b339e226a922a25531f4b86bf075f81f45f5fa99f1f9298f2ad53f
+FileChecksum: MD5: b3ffceec695858026e2c7559ae7cee94
+FileChecksum: SSDEEP: 6:hZGHnB32SlTnRxROWLi/s2SajJ7x/s2Saj2U2SajnZsws2Sajny2SajPw62SajVR:CHrRxLOrlZz0nSwznl0VbVUdK
+FileSize: 375 bytes
+FileLOC: 11
+
+FileName: ./RootTools/src/main/java/com/stericson/RootTools/containers/Mount.java
+FileType: SOURCE
+FileChecksum: SHA1: 06ac3acc0ea294b66be0c4c9023eaa42a4796d38
+FileChecksum: SHA256: bab7de59a04077e4ba3ce8509a42e14d3abf4105389cd1a701b50fac92f8278d
+FileChecksum: MD5: 5fbdf4efb5bf2363452a70d1ad372a0f
+FileChecksum: SSDEEP: 48:N97Kjv4WBzZZbLoa0jH31XoZME4NMd/orve5CIr:DKjvbBzrkasHFXoZbqrlo
+FileSize: 1 Kb (1979 bytes)
+FileLOC: 63
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright (c) 2012 Stephen Erickson, Chris Ravenscroft, Dominik Schuermann, Adam Shanks</text>
+
+FileName: ./RootTools/src/main/java/com/stericson/RootTools/containers/Permissions.java
+FileType: SOURCE
+FileChecksum: SHA1: 11d54c818ccb7d57236e44cf50d8a12ba7e7d80a
+FileChecksum: SHA256: 48bc45d30cf8ffe1d529ec49148f7c8e5bce670b310746f8e29796706b3a777c
+FileChecksum: MD5: 1828b8d92b391af16883516d491926b4
+FileChecksum: SSDEEP: 48:N97Kjv4WBzZZbLoa0jH31XoZMElZIr8tHwEyw1AjI9USEl+2UXSVUSEDqvJXX:DKjvbBzrkasHFXoZbHIB6lhCRW6JH
+FileSize: 2 Kb (2640 bytes)
+FileLOC: 106
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright (c) 2012 Stephen Erickson, Chris Ravenscroft, Dominik Schuermann, Adam Shanks</text>
+
+FileName: ./RootTools/src/main/java/com/stericson/RootTools/containers/RootClass.java
+FileType: SOURCE
+FileChecksum: SHA1: 738b083ab01f253235fc5b65213c15bc9f868e0c
+FileChecksum: SHA256: 8a8321f8b18010f470c853f7031671d0da7b92bc92c7fcd7f1b72df84699fe5a
+FileChecksum: MD5: 18e442942b4bbb5104902dae825286c4
+FileChecksum: SSDEEP: 192:c0ts80pzJHN+LuOlZfu/Q8Lf92EGBjoSSwGyJiSCD5dj38TFrGS17dtSWoSCSQi1:cGQtHILuOl4IEQwz8/ug
+FileSize: 12 Kb (12727 bytes)
+FileLOC: 270
+
+FileName: ./RootTools/src/main/java/com/stericson/RootTools/containers/Symlink.java
+FileType: SOURCE
+FileChecksum: SHA1: 3398705b88bacc85b70fd8a7c25eb950f2a22137
+FileChecksum: SHA256: 7aea8cc71fdc4350516545db01f918352776d9caab34ac0a72005c68e0b7d108
+FileChecksum: MD5: a69328e41c26c1bb6714a79802b3109e
+FileChecksum: SSDEEP: 24:jUO97nAxSKGOx5jpKWBU6ZfBbLodU0E+yaHQk1ppsLZMIRHMy/cPIP5n:N97Kjv4WBzZZbLoa0jH31XoZMEN/6IP1
+FileSize: 1 Kb (1447 bytes)
+FileLOC: 43
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright (c) 2012 Stephen Erickson, Chris Ravenscroft, Dominik Schuermann, Adam Shanks</text>
+
+FileName: ./RootTools/src/main/java/com/stericson/RootTools/exceptions/RootDeniedException.java
+FileType: SOURCE
+FileChecksum: SHA1: 0838de9a3849db9bbc2574fe9a345764911981bd
+FileChecksum: SHA256: cf8484c7bdf9ec483ab2df0a1ff77acd4b8bfb5f3bc554fb109e370ff3831aea
+FileChecksum: MD5: 45036bbe1dd85fb6c4e7207f8ab17b1b
+FileChecksum: SSDEEP: 24:gUO9rnAxSKGy57WAUfBdXU0E+oSHQk1QpsomH4jF1Azelz:k9OT7WAUZdk0eSH31A8FWz
+FileSize: 1 Kb (1257 bytes)
+FileLOC: 28
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright (c) 2012 Stephen Erickson, Chris Ravenscroft, Dominik Schuermann, Adam Shanks</text>
+
+FileName: ./RootTools/src/main/java/com/stericson/RootTools/execution/Command.java
+FileType: SOURCE
+FileChecksum: SHA1: f1148c2044303575673f1ed4ce76081b1baece58
+FileChecksum: SHA256: 3ea8b05c693fb932a5d7ca78e211c7590d87cb1e183c828e0fdd0a9a063aa8c9
+FileChecksum: MD5: 0cfd043fa2d8d44f4ee70e68dba8069c
+FileChecksum: SSDEEP: 192:NyAXsH39DX0taqXPthqMteqeXndE0XkeE0XjOE7OQzoFyhojCoRYGFwyhyl/AIq/:NyAXWKkqXPzqMsqeXdE00eE0zOEyyp9W
+FileSize: 9 Kb (10126 bytes)
+FileLOC: 268
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright (c) 2012 Stephen Erickson, Chris Ravenscroft, Dominik Schuermann, Adam Shanks</text>
+
+FileName: ./RootTools/src/main/java/com/stericson/RootTools/execution/CommandCapture.java
+FileType: SOURCE
+FileChecksum: SHA1: 45c3c06c214ff94acc73105b1a9c20df50ccda45
+FileChecksum: SHA256: 03d8c193be4db641156507a0d042101e5a7535adf77e05ef2ff7ae2c19c43193
+FileChecksum: MD5: 2b06b46506ff12105737b828bba1282a
+FileChecksum: SSDEEP: 48:k9OT7WAUZdk0eSH31A85ChESfTBfM/g0eoc/hOjb:lTyAXsHFA857SLB0/g0eoys
+FileSize: 1 Kb (1970 bytes)
+FileLOC: 52
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright (c) 2012 Stephen Erickson, Chris Ravenscroft, Dominik Schuermann, Adam Shanks</text>
+
+FileName: ./RootTools/src/main/java/com/stericson/RootTools/execution/JavaCommandCapture.java
+FileType: SOURCE
+FileChecksum: SHA1: 710168d0c04083b13f49993fd5c892e73b8c6243
+FileChecksum: SHA256: 8583c6d5942ebebea2d9261da2838a46aed27b1e32fd7bd0bdd79ceb6d9120a7
+FileChecksum: MD5: 79675ad9e8f5284c92fbab6d78e61afc
+FileChecksum: SSDEEP: 24:CH8zmbFoHiFUDLHLDLOoDLAw0tQoc/ECU:cArCIHTO6Aw0eoc/Et
+FileSize: 1 Kb (1109 bytes)
+FileLOC: 32
+
+FileName: ./RootTools/src/main/java/com/stericson/RootTools/execution/Shell.java
+FileType: SOURCE
+FileChecksum: SHA1: 4f000c2143dde82d6c769ba964ce22ad90a6b641
+FileChecksum: SHA256: c943d2a1e1a36afaab5b559179e59500d6c5cf2e597d473d5b01c32893d14539
+FileChecksum: MD5: e52c93ee2795de3bcac1074a98c91a8c
+FileChecksum: SSDEEP: 384:NyAX+p8BczOCUY6L4UYUccXayEih/SR7XDmag2qYp/oZjgfEj+/RkfEU9x9eMTtd:NyAupuiUYUccqy5h/SFXDg2NoSfEj+/k
+FileSize: 20 Kb (20537 bytes)
+FileLOC: 527
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright (c) 2012 Stephen Erickson, Chris Ravenscroft, Dominik Schuermann, Adam Shanks</text>
+
+FileName: ./RootTools/src/main/java/com/stericson/RootTools/internal/Installer.java
+FileType: SOURCE
+FileChecksum: SHA1: 3dd3726fad785b9947440bbd93aa94ba4384d388
+FileChecksum: SHA256: cb64b0650c24b802df81260cd6a67cf0c89c12368d74ddc5de931d6666122d0c
+FileChecksum: MD5: b909436d7b7c3dcbfa205eb0533991da
+FileChecksum: SSDEEP: 192:NyAXsH33sm4mp/cvySoMeuPHSC5Dzk0m/75P62+nfoqyL:NyAXW3Z6JQ0YI2Ei
+FileSize: 7 Kb (8138 bytes)
+FileLOC: 207
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright (c) 2012 Stephen Erickson, Chris Ravenscroft, Dominik Schuermann, Adam Shanks</text>
+
+FileName: ./RootTools/src/main/java/com/stericson/RootTools/internal/InternalVariables.java
+FileType: SOURCE
+FileChecksum: SHA1: 2d60586c9d65e0b7a336313b153837bcaa0ced51
+FileChecksum: SHA256: 080f225f572e89f6a0a8a3683b86644b9b400a1294bac688e58840754c1a0fca
+FileChecksum: MD5: 10926cf45ca52ac0d9c5adeffa552ca1
+FileChecksum: SSDEEP: 48:k9OT7WAUZdk0eSH31A8oikLLSAMIMsqCRh0Gi:lTyAXsHFA8dkEo6
+FileSize: 2 Kb (2359 bytes)
+FileLOC: 55
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright (c) 2012 Stephen Erickson, Chris Ravenscroft, Dominik Schuermann, Adam Shanks</text>
+
+FileName: ./RootTools/src/main/java/com/stericson/RootTools/internal/Remounter.java
+FileType: SOURCE
+FileChecksum: SHA1: bebf1478735a8890f6fcbf68ddff0bb0409e252a
+FileChecksum: SHA256: de4d85ee5f9d56701f84805c9c249e0c6d91e615a3b4e1c110ed940434095eb9
+FileChecksum: MD5: 7a94d81db070a9247f3ac9fc9eea9d2f
+FileChecksum: SSDEEP: 192:NyAXsH3rJENARZ3mS7OjCvS8e23J/2PKSVSkKSVSLKSVShKSVSZk0kA3e2x/LOly:NyAXWrJEe5FS8e23J/2PKSVSkKSVSLKo
+FileSize: 6 Kb (6706 bytes)
+FileLOC: 153
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright (c) 2012 Stephen Erickson, Chris Ravenscroft, Dominik Schuermann, Adam Shanks</text>
+
+FileName: ./RootTools/src/main/java/com/stericson/RootTools/internal/RootToolsInternalMethods.java
+FileType: SOURCE
+FileChecksum: SHA1: 30ec4ecaf57c98fa691186ac0e25ab35dbb3ad97
+FileChecksum: SHA256: bf410133ba8293a7c5b3b733fc5b53fa260e789859fd947293d2bd66ad14576e
+FileChecksum: MD5: 2f68cb71d471fd3fb4bfcfecf7786adc
+FileChecksum: SSDEEP: 768:NyAm7pQEjyBzB7BX7KV3TuTgjTtTknTSTGJ6/aXmTX42YT34SDdTCudTLTBT37ON:NytxYKS63k8BzpZ
+FileSize: 52 Kb (54088 bytes)
+FileLOC: 1243
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright (c) 2012 Stephen Erickson, Chris Ravenscroft, Dominik Schuermann, Adam Shanks</text>
+
+FileName: ./RootTools/src/main/java/com/stericson/RootTools/internal/Runner.java
+FileType: SOURCE
+FileChecksum: SHA1: f548ca23c603eba7cc64af96cda1fc3cdd7a01d5
+FileChecksum: SHA256: b776f3630a94d46dd8a2f3f22a47ecb96e6a2836dfb636ae93d12d2ef7735963
+FileChecksum: MD5: 0ed89e16904106c4fc70ab089ff9eefa
+FileChecksum: SSDEEP: 48:k9OT7WAUZdk0eSH31A8gs8YO5aPBnnWKVkh/LjKx0mAWBZyx:lTyAXsHFA8gdYO0PBnWKq/Hk0mAoZyx
+FileSize: 2 Kb (2705 bytes)
+FileLOC: 69
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright (c) 2012 Stephen Erickson, Chris Ravenscroft, Dominik Schuermann, Adam Shanks</text>
+
+FileName: ./RootTools/src/main/java/com/stericson/RootTools/RootTools.java
+FileType: SOURCE
+FileChecksum: SHA1: 92020bdc7dd2ec5d063c505c8783b6b992f5aba0
+FileChecksum: SHA256: 12344afe4c135cbeddbc74443ee30d156054eec34514478323f38a789f1fb1c6
+FileChecksum: MD5: f695f1e189f6a305f5ce79aebcdb67a6
+FileChecksum: SSDEEP: 768:NyAms9aA/TKH6b6Z4XPEgdaTUZIyzWGn7PFAVw8kFsZtHDEgjLl6HUOvMGNeC:NyNA/TKH6J/9daTUZ5zWGn7PFA+KOMGn
+FileSize: 30 Kb (31712 bytes)
+FileLOC: 720
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright (c) 2012 Stephen Erickson, Chris Ravenscroft, Dominik Schuermann, Adam Shanks</text>
+
+FileName: ./RootTools/src/main/java/com/stericson/RootToolsTests/NativeJavaClass.java
+FileType: SOURCE
+FileChecksum: SHA1: d8bcd630ac8e1c6c3c08ae08ef3891716eb4dc13
+FileChecksum: SHA256: 416a167167e061aa26638ab1d1b4809c815cb401421449973257f3baa5f4c4c2
+FileChecksum: MD5: f2da47e858fb2a96da93c59729d8a222
+FileChecksum: SSDEEP: 24:CH8S7+o1yWsfE3xFUIVK35ojgrEObxXRx:c8q+oYVE3AIkJIeXRx
+FileSize: 1 Kb (1315 bytes)
+FileLOC: 33
+
+FileName: ./RootTools/src/main/java/com/stericson/RootToolsTests/SanityCheckRootTools.java
+FileType: SOURCE
+FileChecksum: SHA1: 469c81c87c1ab486b4bbb750967e82706a2c7b59
+FileChecksum: SHA256: 1e8213548fa99fcd20c2053bbf9cdd03fa26edf9bde9974ff45a147a59bdb37f
+FileChecksum: MD5: e87da313bfcaadf2f6eb6ddc7de276d2
+FileChecksum: SSDEEP: 192:NyAXsH3rElKCp+BUBVmpcHcZJicTq0TAvHTiISMyL:NyAXWrEX2wVwnEfAN
+FileSize: 15 Kb (15844 bytes)
+FileLOC: 326
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright (c) 2012 Stephen Erickson, Chris Ravenscroft, Dominik Schuermann, Adam Shanks</text>
+
+FileName: ./RootTools/src/main/res/drawable-hdpi/ic_launcher.png
+FileType: OTHER
+FileChecksum: SHA1: 4a5a9affbb731f195fc18fea78d51be7db7536a2
+FileChecksum: SHA256: 28c89918a8d235fcadf2e83bb14a6d9da9eab9e665857ad43b9f00e038f1f615
+FileChecksum: MD5: e99d5b979b433e182115f7d9e8f2ca7c
+FileChecksum: SSDEEP: 192:6uElYgAIqJTpOXDAeWJ/PDQh5qXqsi/xaaf1pXUcLPuU:KuIqJTpOXqJ3DQnqX8UcztL1
+FileSize: 9 Kb (9397 bytes)
+
+FileName: ./RootTools/src/main/res/drawable-mdpi/ic_launcher.png
+FileType: OTHER
+FileChecksum: SHA1: 7761bceaf18ed25cdba5f34bf00a55616d078acf
+FileChecksum: SHA256: eb2a39a5c0c475a793e8814faaaf6afa92d303ec9f1fd65696be43eafbb3260d
+FileChecksum: MD5: 7a1dae47bd5a8ee85e0c58995b57f464
+FileChecksum: SSDEEP: 96:s5LsPxHOCIOA35gULJwrWPdSC0jbcVGiDva3psG2fI1/U:o+xupOAJgULJdPI9BeG0uU
+FileSize: 5 Kb (5237 bytes)
+
+FileName: ./RootTools/src/main/res/drawable-xhdpi/ic_launcher.png
+FileType: OTHER
+FileChecksum: SHA1: 82acdd75e3fcc36026109406625edc69d4d7212d
+FileChecksum: SHA256: d9c73c0298e96e08af5c28896b8482503fce0bb9bc29696cadcbdc6e98218041
+FileChecksum: MD5: 6d961fa6711cf1a349d4cecbe67e5099
+FileChecksum: SSDEEP: 384:FSU0F58oOvBOKiu8905nfwbanOGpV2IsGENT7:sU0F58MKjSTbaLPMR7
+FileSize: 14 Kb (14383 bytes)
+
+FileName: ./RootTools/src/main/res/drawable-xxhdpi/ic_launcher.png
+FileType: OTHER
+FileChecksum: SHA1: 39f9e1ddbbda8ed4d69de4241b12c279fa424e8d
+FileChecksum: SHA256: c1898bf316b705f59c07ca5eb157114694db4055cb22fc2a4545b67bb7352cfd
+FileChecksum: MD5: fe26fa94823a2874777769244845ed2c
+FileChecksum: SSDEEP: 384:9Er44hkXaNe9CpAJ6OvjFYM/JwsV/yDK+HKRPN0So8CpxOL1i:9rA2OKCSJwsVq++HSN0S5L4
+FileSize: 18 Kb (19388 bytes)
+
+FileName: ./RootTools/src/main/res/values/strings.xml
+FileType: OTHER
+FileChecksum: SHA1: 9fd72d42b745d27f1cca806ff43663a1a44d294e
+FileChecksum: SHA256: 5e70ee609d2b2f6ec461eec361747486cb513219e3718b7860c2da5cb6c00cad
+FileChecksum: MD5: 5216f2d5b158af48eb78c598e0e381db
+FileChecksum: SSDEEP: 3:Yt/qfWYHEPzWc+ZMzLWf:Y1quYkP686f
+FileSize: 72 bytes
+
+FileName: ./RootTools.iml
+FileType: OTHER
+FileChecksum: SHA1: 74d2840cb27afb1680fd1f91bacdac53ff20efe5
+FileChecksum: SHA256: 212a72aae2d4212e946df5bc5d62fd8f387f56cac28da96a088e651052f54b5b
+FileChecksum: MD5: e3bff5d504feb15a5fefdb4d8624d704
+FileChecksum: SSDEEP: 24:2ds3QwKAYGzVDCTfChWNOmie5g0eCqFHvXOJMCF:cs3TJCrChGjECuPXlA
+FileSize: 805 bytes
+
+FileName: ./settings.gradle
+FileType: OTHER
+FileChecksum: SHA1: 7bc67de946b87f473925d4ff74d2667619f2e6a6
+FileChecksum: SHA256: a312e4e64e8240fa2543e62fc810e24c6734cedec6e06a34750f24779b79a1fa
+FileChecksum: MD5: 09f196e3957a06d7c756feec965d1881
+FileChecksum: SSDEEP: 3:KGf45KK3n:KGf45R3
+FileSize: 21 bytes
